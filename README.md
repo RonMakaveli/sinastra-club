@@ -1,7 +1,13 @@
 <h1> sinastra-club </h1>
-uma simples página de planos para uma barbearia
+uma simples página responsiva de planos para uma barbearia
 
-<p>Projeto criado em HTML5, CSS3 e JavaScript</p>
+### Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <h4 align="center">
  🚧 Projeo em Construção... 🚧
