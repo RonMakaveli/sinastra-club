@@ -1,2 +1,2 @@
-# sinastra-s-club
+# sinastra-club
 página de planos para uma barbearia
