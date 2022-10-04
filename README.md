@@ -1,5 +1,5 @@
 <h1> sinastra-club </h1>
-uma simples página responsiva de planos para uma barbearia
+uma simples página responsiva de planos para uma barbearia.
 
 ### Tecnologias
 
